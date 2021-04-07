@@ -1,0 +1,7 @@
+﻿  Bubble.cpp
+  Choice.cpp
+  Создание кода...
+D:\Student\oop4.5\oop4.5\Choice.cpp(57): warning C4715: Choice::foreach1: значение возвращается не при всех путях выполнения
+D:\Student\oop4.5\oop4.5\Bubble.cpp(58): warning C4715: Bubble::foreach1: значение возвращается не при всех путях выполнения
+  LINK : не найден или не выполнена сборка D:\Student\oop4.5\Debug\oop4.5.exe при последней инкрементной компоновке; выполняется полная компоновка
+  oop4.5.vcxproj -> D:\Student\oop4.5\Debug\oop4.5.exe
